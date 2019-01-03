@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/rexuli/contactmanager/static/js/runtime~main.b2fbb427.js"
   },
   {
-    "revision": "62599ae7fe63a6eaa350",
-    "url": "/rexuli/contactmanager/static/js/main.62599ae7.chunk.js"
+    "revision": "aab204d046f134bb873e",
+    "url": "/rexuli/contactmanager/static/js/main.aab204d0.chunk.js"
   },
   {
-    "revision": "f96a6c0ac197713adaf6",
-    "url": "/rexuli/contactmanager/static/js/1.f96a6c0a.chunk.js"
+    "revision": "ea06df50363323a5b308",
+    "url": "/rexuli/contactmanager/static/js/1.ea06df50.chunk.js"
   },
   {
-    "revision": "62599ae7fe63a6eaa350",
+    "revision": "aab204d046f134bb873e",
     "url": "/rexuli/contactmanager/static/css/main.da3b6268.chunk.css"
   },
   {
-    "revision": "f96a6c0ac197713adaf6",
+    "revision": "ea06df50363323a5b308",
     "url": "/rexuli/contactmanager/static/css/1.d0a9569f.chunk.css"
   },
   {
-    "revision": "d5e5e7af55e11d91d69ff525ee5580b5",
+    "revision": "d7466cbe225c197a8369e6b34eb83cdc",
     "url": "/rexuli/contactmanager/index.html"
   }
 ];

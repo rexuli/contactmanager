@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rexuli/contactmanager/precache-manifest.ea50cc1f6601c583d27bb157b7469a6f.js"
+  "/rexuli/contactmanager/precache-manifest.c738d47b9e895386e6acd521e297f950.js"
 );
 
 workbox.clientsClaim();
